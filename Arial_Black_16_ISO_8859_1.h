@@ -38,7 +38,7 @@
  */
 
 #include <inttypes.h>
-#include <avr/pgmspace.h>
+#include <pgmspace.h>
 
 #ifndef ARIAL_BLACK_16_ISO_8859_1_H
 #define ARIAL_BLACK_16_ISO_8859_1_H
