@@ -30,7 +30,7 @@
  */
 
 #include <inttypes.h>
-#include <avr/pgmspace.h>
+#include <pgmspace.h>
 
 #ifndef SYSTEM5x7_H
 #define SYSTEM5x7_H
